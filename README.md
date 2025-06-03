@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Giovanni Pio Rizzi
+# Sono GPR
 
 Full Stack Developer appassionato di soluzioni software, hardware e prototipazione.
 
