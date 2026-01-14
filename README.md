@@ -11,7 +11,7 @@ Full Stack Developer appassionato di soluzioni software, hardware e prototipazio
 - 🎓 Diploma ITIS “Luigi di Maggio” (2024) in sviluppo software, elettronica, reti  
 - 💡 Passione: back-end (Python/Flask/Django), front-end (HTML/CSS/JS), mobile (Flutter, React Native), prototipazione (Arduino, Raspberry Pi)  
 
-> 👉 Per dettagli estesi, visita il mio sito: [masterpinguin.github.io](https://masterpinguin.github.io)
+> 👉 Per dettagli estesi, visita il mio sito: https://gprizzi.com/
 
 ---
 
