@@ -29,9 +29,8 @@ Full Stack Developer appassionato di soluzioni software, hardware e prototipazio
 
 ## 📫 Contatti
 
-- ✉️ Email: [giovanni.gpr5@gmail.com](mailto:giovanni.gpr5@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/giovannipiorizzi](https://www.linkedin.com/in/giovannipiorizzi) (se disponibile)  
-- 🌐 Sito web: [masterpinguin.github.io](https://masterpinguin.github.io)  
+- ✉️ Email: [giovanni.gpr5@icloud.com](mailto:giovanni.gpr5@icloud.com)  
+- 🌐 Sito web: https://gprizzi.com/
 
 ---
 
