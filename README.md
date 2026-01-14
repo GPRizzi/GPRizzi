@@ -1,135 +1,106 @@
-<!-- ========================= -->
-<!--        GPR README         -->
-<!-- ========================= -->
+<!--
+┌───────────────────────────────────────────────────────────┐
+│                 Giovanni Pio Rizzi – README                 │
+│     Full Stack Developer & 3D Artist – Personal Profile     │
+└───────────────────────────────────────────────────────────┘
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1C,50:0E3B43,100:00E5CC&height=120&section=header&text=GPR&fontSize=48&fontColor=E6FFFA&fontAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0F1C,50:0E3B43,100:00E5CC&height=130&section=header&text=Giovanni%20Pio%20Rizzi&fontSize=48&fontColor=E6FFFA" />
 
-### Full Stack Developer • Software & Hardware Enthusiast  
-**Design. Code. Prototype. Evolve.**
+**Full Stack Developer & 3D Artist**  
+Soluzioni software e prototipi tecnologici avanzati
 
-<br>
-
-<a href="https://gprizzi.com">
-  <img src="https://img.shields.io/badge/Portfolio-gprizzi.com-00E5CC?style=for-the-badge&logo=google-chrome&logoColor=black">
-</a>
-<a href="mailto:giovanni.gpr5@icloud.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0E3B43?style=for-the-badge&logo=maildotru&logoColor=white">
-</a>
+[Portfolio completo](https://gprizzi.com)  
+[Curriculum PDF](https://gprizzi.com)
 
 </div>
 
 ---
 
-## 🧭 Profilo
+## PROFILO
 
-```txt
-📍 Manfredonia (FG), Italia
-🧑‍💻 20 anni • Autodidatta • Problem Solver
-🎓 ITIS “Luigi di Maggio” — Informatica & Tecnologie (2024)
-```
+Mi chiamo **Giovanni Pio Rizzi**, sviluppatore full stack con un profilo tecnico ampio, dalla programmazione software al design 3D fino alla prototipazione hardware.  
+Con una forte predisposizione all’autonomia, progetto e realizzo soluzioni **funzionali, scalabili e orientate al risultato**, ponendo attenzione al design, alle performance e alla qualità del codice.
 
-Sono uno **sviluppatore Full Stack** con una forte inclinazione per la **progettazione di soluzioni complete**, dalla logica backend all’esperienza utente, fino alla **prototipazione hardware**.
-
-Mi piace costruire sistemi **puliti, scalabili e concreti**, unendo **software, elettronica e design** in progetti reali.
-
----
-
-## 🧠 Aree di Interesse
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Software
-
-* Backend robusti e performanti
-* Architetture REST
-* Applicazioni web e mobile
-* Automazione & scripting
-
-</td>
-<td width="50%">
-
-### 🔌 Hardware & Prototipi
-
-* Sistemi embedded
-* IoT & sensori
-* Integrazione software-hardware
-* Rapid prototyping
-
-</td>
-</tr>
-</table>
+**Residenza:** Manfredonia (FG), Italia  
+**Età:** 20 anni  
+**Telefono:** +39 349 150 2016  
+**Email:** giovanni.gpr5@icloud.com  
+**Sito:** https://gprizzi.com
 
 ---
 
-## 🛠️ Stack Tecnologico
+## COMPETENZE TECNICHE
 
-### 🔤 Linguaggi
+### Linguaggi di Programmazione
 
-![Python](https://img.shields.io/badge/Python-0A0F1C?style=flat\&logo=python)
-![C](https://img.shields.io/badge/C/C++-0A0F1C?style=flat\&logo=c)
-![Java](https://img.shields.io/badge/Java-0A0F1C?style=flat\&logo=openjdk)
-![PHP](https://img.shields.io/badge/PHP-0A0F1C?style=flat\&logo=php)
-![Dart](https://img.shields.io/badge/Dart-0A0F1C?style=flat\&logo=dart)
-![JS](https://img.shields.io/badge/JavaScript-0A0F1C?style=flat\&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-0A0F1C?style=flat\&logo=mysql)
-
----
-
-### 🌐 Web & Mobile
-
-* **Backend**: Flask, Django
-* **Frontend**: HTML, CSS, JavaScript
-* **Mobile**: Flutter, React Native
+![C](https://img.shields.io/badge/C-0A0F1C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0A0F1C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0A0F1C?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0A0F1C?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0A0F1C?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0A0F1C?style=flat&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-0A0F1C?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-0A0F1C?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0F1C?style=flat&logo=javascript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0A0F1C?style=flat&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-0A0F1C?style=flat&logo=c%23&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-0A0F1C?style=flat&logo=swift&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-0A0F1C?style=flat&logo=assembly&logoColor=white)
 
 ---
 
-### 🗄️ Database
+### Framework, Librerie e Tecnologie
 
-* MySQL
-* PostgreSQL
-
----
-
-### 🧰 Tool & Extra
-
-* Git & GitHub
-* Blender • Unity
-* VS Code
-* Cisco Packet Tracer
-* Arduino • Raspberry Pi
+- **Web:** Flask, Django, Kivy  
+- **Mobile:** Flutter, React Native  
+- **Frontend:** HTML & CSS, JavaScript  
+- **Prototipazione:** Arduino, Raspberry Pi  
+- **Networking:** Cisco Packet Tracer  
+- **Database:** MySQL, PostgreSQL  
+- **Tools:** Blender (3D), Unity, GitHub, VS Code, Xcode, Android Studio
 
 ---
 
-## 🎨 Filosofia
+## ESPERIENZE PROFESSIONALI
 
-> **La tecnologia non è solo codice:**
-> è progettazione, sperimentazione e miglioramento continuo.
+**2023–2024**  
+**Stazione Meteorologica – Meteogargano**  
+Ruolo: Backend Developer  
+Progettazione e sviluppo back-end per raccolta dati meteorologici, automazione di time-lapse e gestione FTP.
 
-Ogni progetto è un **laboratorio di crescita**, ogni errore un **dato utile**.
+**2022–2023**  
+**Controllo Accessi con RFID**  
+Sviluppo di un sistema con Arduino e Raspberry Pi per gestione accessi, con design completo del prototipo.
 
----
-
-## 📫 Contatti
-
-<div align="center">
-
-🌐 **Sito** → [https://gprizzi.com](https://gprizzi.com)
-✉️ **Email** → [giovanni.gpr5@icloud.com](mailto:giovanni.gpr5@icloud.com)
-
-</div>
+**2021–2022**  
+**Simulazione Aziendale “OMB Solar”**  
+Coordinamento progetto simulato per creazione azienda, con analisi di mercato e presentazioni professionali.
 
 ---
 
-<div align="center">
+## PROGETTI RILEVANTI
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5CC,50:0E3B43,100:0A0F1C&height=80&section=footer"/>
+- **E-commerce Full Stack** – PHP, HTML/CSS, JavaScript, SQL – Shop completo con gestione server e utente  
+- **Gioco di Scopa** – Python – Implementazione completa di gioco con logica e interfaccia  
+- **Videogioco “Dinosaur”** – Java – Replica con gameplay elementare  
+- **Arduino Hardware Projects** – C/C++ – Lettori RFID, sistemi automatizzati  
+- **Reti complesse** – Cisco Packet Tracer – Progettazione servizi LAN/VLAN/VPN
 
-**Grazie per la visita 🚀**
+---
 
-</div>
+## LINGUE
 
-Dimmi lo stile che preferisci 😄
+- Italiano – Madrelingua  
+- Inglese – Livello Intermedio (B2)
+
+---
+
+## VALORI PROFESSIONALI
+
+Realizzo soluzioni con una visione orientata alla **durabilità, efficienza e usabilità**.  
+Per me **qualità del software e precisione tecnica** sono parte integrante dell’identità di un progetto.
+
+Tutti i contenuti di questo profilo sono coerenti con il mio sito personale e curriculum pubblicati su gprizzi.com. :contentReference[oaicite:0]{index=0}
