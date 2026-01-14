@@ -62,9 +62,6 @@ Lavoro con un approccio orientato alla solidità tecnica, alla chiarezza archite
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5CC,100:0E3B43&height=3&section=header" />
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1C,100:0E3B43&height=3&section=header" />
-
 ## FORMAZIONE
 
 **ITIS “Luigi di Maggio” – Manfredonia**  
