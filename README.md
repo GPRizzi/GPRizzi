@@ -62,24 +62,6 @@ Lavoro con un approccio orientato alla solidità tecnica, alla chiarezza archite
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5CC,100:0E3B43&height=3&section=header" />
 
-## ESPERIENZE E PROGETTI
-
-### Backend Developer — Meteogargano (2023–2024)
-Sviluppo backend per gestione dati meteorologici, automazione di time-lapse e sincronizzazione tramite FTP.
-
-### Sistema di Controllo Accessi RFID
-Progetto completo hardware/software con Arduino e Raspberry Pi per la gestione degli accessi.
-
-### Progetti Software
-- E-commerce full stack (PHP, JS, SQL)  
-- Applicazioni e script Python  
-- Giochi desktop in Java  
-- Applicazioni mobile Flutter  
-- Simulazioni di rete complesse (VLAN, routing, servizi)
-
-Tutti i repository GitHub rappresentano progetti reali o sperimentali sviluppati in autonomia.
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1C,100:0E3B43&height=3&section=header" />
 
